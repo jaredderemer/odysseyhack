@@ -31,3 +31,4 @@ c:\users\toshiba7\documents\visual studio 2012\Projects\testAsp\testAsp\bin\Micr
 c:\users\toshiba7\documents\visual studio 2012\Projects\testAsp\testAsp\obj\Debug\testAsp.csprojResolveAssemblyReference.cache
 c:\users\toshiba7\documents\visual studio 2012\Projects\testAsp\testAsp\obj\Debug\testAsp.dll
 c:\users\toshiba7\documents\visual studio 2012\Projects\testAsp\testAsp\obj\Debug\testAsp.pdb
+Y:\hack\odysseyhack\testAsp\testAsp\obj\Debug\testAsp.csprojResolveAssemblyReference.cache
