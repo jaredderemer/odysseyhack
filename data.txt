@@ -1,0 +1,1 @@
+name, arrive_date, arrive_time, depart_date, depart_time, state_id_number, auto_date, auto_time, visit_number
